@@ -1,6 +1,6 @@
 # Yoldot-App
 Yoldot application
-On google play store ----> [Yoldot](https://play.google.com/store/apps/details?id=com.yoldot)
+on google play store [Yoldot](https://play.google.com/store/apps/details?id=com.yoldot)
 
 For datails go to [Wiki](https://github.com/elch89/Yoldot-App/wiki)
 

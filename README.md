@@ -2,7 +2,7 @@
 Yoldot application
 on google play store [Yoldot](https://play.google.com/store/apps/details?id=com.yoldot)
 
-For datails go to [Wiki](https://github.com/elch89/Yoldot-App/wiki)
+For production datails go to [Wiki](https://github.com/elch89/Yoldot-App/wiki)
 
 # Screenshots
 <p align="center">
